@@ -1,0 +1,4 @@
+Bundle-Name: Liferayaxa
+Bundle-SymbolicName: com.liferay.axa.prueba
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.axa.prueba.constants
